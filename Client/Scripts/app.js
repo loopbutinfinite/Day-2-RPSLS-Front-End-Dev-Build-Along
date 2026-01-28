@@ -21,7 +21,7 @@ let aTies = 0;
 // -----------------------API Config-----------------------
 //Change this to our API endpoint that returns a random move as a string.
 //Example options your API could return "Rock","Paper","Scissors"
-//Create a variable to hold our URL
+//Create a variable to hold our URL https://rpsdemov1-bad6e5b0eff8bxdc.westus3-01.azurewebsites.net/api/rps/rps
 const aCPUApiUrl = "https://rpsdemov1-bad6e5b0eff8bxdc.westus3-01.azurewebsites.net/api/rps/rps";
 
 // -----------------------DOM References-----------------------
