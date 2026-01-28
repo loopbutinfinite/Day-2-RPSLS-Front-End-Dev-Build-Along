@@ -22,7 +22,7 @@ let aTies = 0;
 //Change this to our API endpoint that returns a random move as a string.
 //Example options your API could return "Rock","Paper","Scissors"
 //Create a variable to hold our URL https://rpsdemov1-bad6e5b0eff8bxdc.westus3-01.azurewebsites.net/api/rps/rps
-const aCPUApiUrl = "https://cpubackendv2lecture-dvapbbawhzepbugm.westus3-01.azurewebsites.net/CPURPS/CPU";
+const aCPUApiUrl = "https://rpsdemov1-bad6e5b0eff8bxdc.westus3-01.azurewebsites.net/api/rps/rps";
 
 // -----------------------DOM References-----------------------
 // Gets the CPU mode button from the HTML
